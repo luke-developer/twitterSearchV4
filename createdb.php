@@ -8,9 +8,9 @@
  * Create DB to hold table that will hold tweet data
  */
 
-$servername = 'localhost';
-$username = 'root';
-$password = '';
+$servername = 'Your server name';
+$username = 'Your server username, for example, mine is root';
+$password = 'Your server password';
 
 
 //create connection
